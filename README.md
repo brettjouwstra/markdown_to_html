@@ -1,11 +1,3 @@
----
-title: Markdown to HTML
-author: Brett
-date: 2/7/21
-last_update: 2/7/21
-photos: []
----
-
 Start with the obvious imports, the only one you may not recognize is "frontmatter," it's an awesome metadata parser for markdown pages. You can check it out in more detail on [Github](https://github.com/eyeseast/python-frontmatter)
 
 ```py
